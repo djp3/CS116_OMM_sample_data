@@ -1,0 +1,3 @@
+Alice, sample_data/alice.txt
+Bible, sample_data/bible.txt
+Matrix, sample_data/matrix.txt
